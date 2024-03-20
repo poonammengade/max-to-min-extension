@@ -1,0 +1,7 @@
+# Max to Min Aggregate Function
+# PostgreSQL versions supported
+# PostgreSQL 9.6 or later is required for custom aggregate functions
+comment = 'Custom aggregate function to calculate the maximum and minimum values of an integer column in PostgreSQL.'
+default_version = '1.0.0'
+relocatable = true
+trusted = true
